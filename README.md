@@ -83,4 +83,5 @@
 
 ## ©️ **Creator**
 
-Developed with ❤️ by **popkid**.
+Developed with ❤️ byefet
+**popkid**.
